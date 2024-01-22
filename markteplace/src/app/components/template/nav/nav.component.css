@@ -1,0 +1,41 @@
+.nav-container{
+    background: #202020
+}
+
+.sidenav{
+    background-color: #202020;
+    width: 200px;
+    position: fixed;
+    top: 0;
+}
+
+.mat-nav-button{
+    background-color: pink;
+    margin-bottom: 1rem;
+    color: #2c2c2c;
+    border: none;
+    border-radius: 10px;
+    margin-left: -30px;
+}
+
+.mat-nav-button i{
+    margin-left: 10px;
+}
+
+.sidenav .mat-list a{
+    color: #f2f2f2;
+    text-decoration: none;
+}
+
+.sidenav .mat-list i{
+    padding-right: 10px;
+}
+
+.content{
+    padding: 16px;
+    background-color: #f2f2f2;
+}
+
+.mat-list i{
+    color: #f2f2f2;
+}
